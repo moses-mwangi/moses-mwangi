@@ -1,10 +1,10 @@
-<h1 align="end">Hi there 👋</h1>
+<h1 align="start">Hi there 👋</h1>
 <h1 align="start">I'm Moses Mwangi</h1>
-<h3 align="center">Full-Stack Engineer | Building clean & scalable web experiences</h3>
+<h3 align="start">Full-Stack Engineer | Building clean & scalable web experiences</h3>
 
 <p align="center">
-  <a href="https://github.com/samnj">
-    <img src="https://komarev.com/ghpvc/?username=samnj&label=Profile%20views&color=0e75b6&style=flat" alt="samnj" />
+  <a href="https://github.com/moses-mwangi">
+    <img src="https://komarev.com/ghpvc/?username=Moses(Tm)&label=Profile%20views&color=0e75b6&style=flat" alt="Moses(Tm)" />
   </a>
 </p>
 
@@ -15,15 +15,15 @@
 * 🔭 I’m currently working at **NvisionHR**
 * 🌱 I’m learning **Next.js, Hono.js, Python, and TypeScript**
 * 💬 Ask me about **System Design, UI/UX, and Web Development**
-* 📫 Reach me at **[sam.x.njuguna@gmail.com](mailto:sam.x.njuguna@gmail.com)**
-* 📄 Resume: https://resume.samnj.dev
+* 📫 Reach me at **[moses.mwangi.me@gmail.com](mailto:moses.mwangi.me@gmail.com)**
+* 📄 Resume: https://resume.mosestm.dev
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<a href="https://linkedin.com/in/moses-mwangi-5b4ba6292" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="https://twitter.com/YOUR-TWITTER" target="blank">
