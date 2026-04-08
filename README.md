@@ -56,34 +56,6 @@ Here are some of the technologies and tools I'm proficient in:
 
 ##  GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moses-mwangi&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moses-mwangi&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moses-mwangi&layout=compact&theme=tokyonight" alt="langs" />
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moses-mwangi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="60%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moses-mwangi&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
-
-p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moses-mwangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-</p> 
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moses-mwangi&color=tokyonight&style=flat-square&label=Profile+Views" />
-</p> 
- -->
-
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moses-mwangi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moses-mwangi&theme=tokyonight&hide_border=true" width="56%" />
@@ -96,6 +68,25 @@ p align="center">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moses-mwangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
+
+
+<!-- <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moses-mwangi&theme=tokyonight" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moses-mwangi&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moses-mwangi&theme=tokyonight" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moses-mwangi&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moses-mwangi&theme=tokyonight&utcOffset=3" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moses-mwangi&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p> -->
 
 ##  Featured Projects
 
@@ -134,4 +125,3 @@ Here are a few projects I’ve built that showcase my skills and problem-solving
 
 I love building things that people actually enjoy using.
 
----
