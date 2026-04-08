@@ -30,7 +30,7 @@ I’m always open to interesting conversations, collaborations, or opportunities
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/moses-mwangi)
 [![Gmail](https://img.shields.io/badge/Gmail-F24E1E?style=for-the-badge&logo=gmail)](mailto:moses.mwangi.me@gmail.com)
 
-💬 Whether you have a project in mind, want to collaborate, or just want to connect—feel free to reach out.
+Whether you have a project in mind, want to collaborate, or just want to connect—feel free to reach out.
 
 ##  Skills
 Here are some of the technologies and tools I'm proficient in:
@@ -48,60 +48,79 @@ Here are some of the technologies and tools I'm proficient in:
 
 ##  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samnj&show_icons=true&theme=tokyonight" alt="stats" />
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moses-mwangi&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samnj&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moses-mwangi&theme=tokyonight" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnj&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moses-mwangi&layout=compact&theme=tokyonight" alt="langs" />
+</p> -->
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moses-mwangi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moses-mwangi&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
+
+p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moses-mwangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</p> 
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moses-mwangi&color=tokyonight&style=flat-square&label=Profile+Views" />
+</p> 
+ -->
+
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moses-mwangi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moses-mwangi&theme=tokyonight&hide_border=true" width="56%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moses-mwangi&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moses-mwangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
 ##  Featured Projects
 
 Here are a few projects I’ve built that showcase my skills and problem-solving approach:
 
+🔹 **Project One**  – A short description of what the project does and the value it provides.
 
-### 🔹 Project One  
->>>>>>>>> A short description of what the project does and the value it provides.
-
-> <sub>
-🔗 Live Demo: https://your-project-link.com  <br/>
-📦 Repository: https://github.com/moses-mwangi/project-one  
-</sub>
-
-### 🔹 Project One  
-A short description of what the project does and the value it provides.
-
-**Tech:** React, Next.js, Tailwind  
-
--  **Live Demo:** https://your-project-link.com  
--  **Repository:** https://github.com/moses-mwangi/project-one  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Tech: React, Next.js, Tailwind  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Live Demo: https://your-project-link.com <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📦 Repo: https://github.com/moses-mwangi/project-one <br>
 
 
-### 🔹 Project Two  
-Explain the problem this project solves and your approach.
+🔹 **Project Two**  – A short description of what the project does and the value it provides.
 
--  **Live Demo:** https://your-project-link.com  
--  **Repository:** https://github.com/moses-mwangi/project-two  
-
-
-### 🔹 Project Three  
-Highlight what makes this project interesting or unique.
-
--  **Live Demo:** https://your-project-link.com  
--  **Repository:** https://github.com/moses-mwangi/project-three  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Tech: React, Next.js, Tailwind  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Live Demo: https://your-project-link.com <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📦 Repo: https://github.com/moses-mwangi/project-one <br>
 
 
-### 🔹 Project Four  
-  Briefly describe what you built and the technologies used.
 
--  **Live Demo:** https://your-project-link.com  
--  **Repository:** https://github.com/moses-mwangi/project-four  
+🔹 **Project Three**  – Highlight what makes this project interesting or unique.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Tech: React, Next.js, Tailwind  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Live Demo: https://your-project-link.com <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📦 Repo: https://github.com/moses-mwangi/project-one <br>
+
+
+
+🔹 **Project Four**  –  Briefly describe what you built and the technologies used. 
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Tech: React, Next.js, Tailwind  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Live Demo: https://your-project-link.com <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📦 Repo: https://github.com/moses-mwangi/project-one <br>
 
 ##  Fun Fact
 
