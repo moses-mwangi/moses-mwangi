@@ -1,5 +1,11 @@
 <h1 align="start">Hi there 👋</h1>
 <h1 align="start">I'm Moses Mwangi</h1>
+## Hi there 👋
+## I'm Moses Mwangi
+
+I'm an enthusiastic senior full-stack engineer , <br/>
+dedicated to crafting stunning and user-friendly interfaces. **Welcome to my  profile!** 
+
 <h3 align="start">Full-Stack Engineer | Building clean & scalable web experiences</h3>
 
 <p align="center">
