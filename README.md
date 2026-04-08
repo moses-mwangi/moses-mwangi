@@ -1,22 +1,16 @@
-<h1 align="start">Hi there 👋</h1>
-<h1 align="start">I'm Moses Mwangi</h1>
-## Hi there 👋
-## I'm Moses Mwangi
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=40&duration=1996&pause=500&color=84DCC6&multiline=true&width=435&height=114&lines=Hi+there%F0%9F%91%8B%2C;+I'm+Moses+Mwangi)](https://git.io/typing-svg)
 
 I'm an enthusiastic senior full-stack engineer , <br/>
 dedicated to crafting stunning and user-friendly interfaces. **Welcome to my  profile!** 
 
-<h3 align="start">Full-Stack Engineer | Building clean & scalable web experiences</h3>
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/moses-mwangi">
-    <img src="https://komarev.com/ghpvc/?username=Moses(Tm)&label=Profile%20views&color=0e75b6&style=flat" alt="Moses(Tm)" />
+    <img src="https://komarev.com/ghpvc/?username=moses-mwangi&label=Profile%20views&color=0e75b6&style=flat" alt="moses-mwangi" />
   </a>
 </p>
 
----
 
-## 🚀 About Me
+##  About Me
 
 * 🔭 I’m currently working at **NvisionHR**
 * 🌱 I’m learning **Next.js, Hono.js, Python, and TypeScript**
@@ -24,26 +18,30 @@ dedicated to crafting stunning and user-friendly interfaces. **Welcome to my  pr
 * 📫 Reach me at **[moses.mwangi.me@gmail.com](mailto:moses.mwangi.me@gmail.com)**
 * 📄 Resume: https://resume.mosestm.dev
 
----
 
-## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/moses-mwangi-5b4ba6292" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://twitter.com/YOUR-TWITTER" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
-</a>
-</p>
+##  Let’s Connect
 
----
+I’m always open to interesting conversations, collaborations, or opportunities.
 
-## 🛠️ Languages and Tools
+[![Portfolio](https://img.shields.io/badge/Portfolio-F05032?style=for-the-badge&logo=Portfolio)](https://www.mosestm.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2496ED?style=for-the-badge&logo=linkedIn)](https://www.linkedin.com/in/moses-mwangi-5b4ba6292/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/moses-mwangi)
+[![Gmail](https://img.shields.io/badge/Gmail-F24E1E?style=for-the-badge&logo=gmail)](mailto:moses.mwangi.me@gmail.com)
+
+💬 Whether you have a project in mind, want to collaborate, or just want to connect—feel free to reach out.
+
+##  Skills
+Here are some of the technologies and tools I'm proficient in:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,python,tailwind,docker,postgres,git,figma" />
 </p>
+
+* **Frontend:**  React, Next.js, TypeScript, Tailwind CSS
+* **Backend:** Node.js, Express, Python
+* **Database:** PostgreSQL, MongoDB
+* **Tools & Others:** Git, Docker, Figma, VS Code
 
 ---
 
