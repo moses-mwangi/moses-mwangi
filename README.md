@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Moses Mwangi</h1>
+<h1 align="end">Hi there 👋</h1>
+<h1 align="start">I'm Moses Mwangi</h1>
 <h3 align="center">Full-Stack Engineer | Building clean & scalable web experiences</h3>
 
 <p align="center">
