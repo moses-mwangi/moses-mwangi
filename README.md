@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=40&duration=1996&pause=500&color=84DCC6&multiline=true&width=435&height=114&lines=Hi+there%F0%9F%91%8B%2C;+I'm+Moses+Mwangi)](https://git.io/typing-svg)
 
-I'm an enthusiastic senior full-stack engineer , <br/>
-dedicated to crafting stunning and user-friendly interfaces. **Welcome to my  profile!** 
+<p>
+I’m a full-stack developer focused on building clean, user-friendly web applications.<br/>
+Welcome to my profile 👋
+</p>
 
 <p align="left">
   <a href="https://github.com/moses-mwangi">
@@ -14,11 +16,13 @@ dedicated to crafting stunning and user-friendly interfaces. **Welcome to my  pr
 
 I’m a full-stack developer who enjoys building modern web applications that are both functional and easy to use. 
 
-* 🔭 I’m currently working at **NvisionHR**
-* 🌱 I’m learning **Next.js, Hono.js, Python, and TypeScript**
-* 💬 Ask me about **System Design, UI/UX, and Web Development**
-* 📫 Reach me at **[moses.mwangi.me@gmail.com](mailto:moses.mwangi.me@gmail.com)**
-* 📄 Resume: https://resume.mosestm.dev
+- 🔭 Currently building and contributing to projects at **NvisionHR**  
+- 🌱 Exploring **Next.js, backend architecture, and TypeScript**  
+- 💡 Interested in **system design, scalable applications, and clean UI/UX**  
+- 💬 Open to conversations around **web development and real-world projects**  
+- 📫 Reach me at: **moses.mwangi.me@gmail.com**  
+- 🌐 Portfolio: https://www.mosestm.dev  
+- 📄 Resume: https://resume.mosestm.dev  
 
 
 ##  Let’s Connect
@@ -26,7 +30,7 @@ I’m a full-stack developer who enjoys building modern web applications that ar
 I’m always open to interesting conversations, collaborations, or opportunities.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-F05032?style=for-the-badge&logo=Portfolio)](https://www.mosestm.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2496ED?style=for-the-badge&logo=linkedIn)](https://www.linkedin.com/in/moses-mwangi-5b4ba6292/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2496ED?style=for-the-badge&logo=linkedIn)](https://www.linkedin.com/in/moses-mwangi-tm/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/moses-mwangi)
 [![Gmail](https://img.shields.io/badge/Gmail-F24E1E?style=for-the-badge&logo=gmail)](mailto:moses.mwangi.me@gmail.com)
 
@@ -36,13 +40,17 @@ Whether you have a project in mind, want to collaborate, or just want to connect
 Here are some of the technologies and tools I'm proficient in:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,python,tailwind,docker,postgres,git,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,python,go,rust" />
 </p>
 
-* **Frontend:**  React, Next.js, TypeScript, Tailwind CSS
-* **Backend:** Node.js, Express, Python
-* **Database:** PostgreSQL, MongoDB
-* **Tools & Others:** Git, Docker, Figma, VS Code
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,docker,postgres,mongodb,git,figma" />
+</p>
+
+* **Frontend:**  React, Next.js, Angular, Vue, TypeScript, Javascript
+* **Backend:** Node.js, Express, Python, Golang, Hono
+* **Database:** PostgreSQL, MongoDB, MySQL, Superbase
+* **Tools & Others:** Git, Docker, Figma, VS Code, OpenCode, WindSurf, Cursor, Claud-Code
 
 
 
