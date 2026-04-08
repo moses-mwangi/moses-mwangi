@@ -12,12 +12,13 @@ dedicated to crafting stunning and user-friendly interfaces. **Welcome to my  pr
 
 ##  About Me
 
+I’m a full-stack developer who enjoys building modern web applications that are both functional and easy to use. 
+
 * 🔭 I’m currently working at **NvisionHR**
 * 🌱 I’m learning **Next.js, Hono.js, Python, and TypeScript**
 * 💬 Ask me about **System Design, UI/UX, and Web Development**
 * 📫 Reach me at **[moses.mwangi.me@gmail.com](mailto:moses.mwangi.me@gmail.com)**
 * 📄 Resume: https://resume.mosestm.dev
-
 
 
 ##  Let’s Connect
@@ -43,9 +44,9 @@ Here are some of the technologies and tools I'm proficient in:
 * **Database:** PostgreSQL, MongoDB
 * **Tools & Others:** Git, Docker, Figma, VS Code
 
----
 
-## 📊 GitHub Stats
+
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samnj&show_icons=true&theme=tokyonight" alt="stats" />
@@ -59,17 +60,50 @@ Here are some of the technologies and tools I'm proficient in:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnj&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
----
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-* 🚀 **Project One** – Short description of what it does
-* ⚡ **Project Two** – What problem it solves
-* 💡 **Project Three** – Why it's interesting
+Here are a few projects I’ve built that showcase my skills and problem-solving approach:
 
----
 
-## ⚡ Fun Fact
+### 🔹 Project One  
+>>>>>>>>> A short description of what the project does and the value it provides.
+
+> <sub>
+🔗 Live Demo: https://your-project-link.com  <br/>
+📦 Repository: https://github.com/moses-mwangi/project-one  
+</sub>
+
+### 🔹 Project One  
+A short description of what the project does and the value it provides.
+
+**Tech:** React, Next.js, Tailwind  
+
+-  **Live Demo:** https://your-project-link.com  
+-  **Repository:** https://github.com/moses-mwangi/project-one  
+
+
+### 🔹 Project Two  
+Explain the problem this project solves and your approach.
+
+-  **Live Demo:** https://your-project-link.com  
+-  **Repository:** https://github.com/moses-mwangi/project-two  
+
+
+### 🔹 Project Three  
+Highlight what makes this project interesting or unique.
+
+-  **Live Demo:** https://your-project-link.com  
+-  **Repository:** https://github.com/moses-mwangi/project-three  
+
+
+### 🔹 Project Four  
+  Briefly describe what you built and the technologies used.
+
+-  **Live Demo:** https://your-project-link.com  
+-  **Repository:** https://github.com/moses-mwangi/project-four  
+
+##  Fun Fact
 
 I love building things that people actually enjoy using.
 
