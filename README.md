@@ -21,15 +21,15 @@ I’m a full-stack developer who enjoys building modern web applications that ar
 - 💡 Interested in **system design, scalable applications, and clean UI/UX**  
 - 💬 Open to conversations around **web development and real-world projects**  
 - 📫 Reach me at: **moses.mwangi.me@gmail.com**  
-- 🌐 Portfolio: https://www.mosestm.dev  
-- 📄 Resume: https://resume.mosestm.dev  
+- 🌐 Portfolio: https://moses-tm.vercel.app/  
+- 📄 Resume: https://resume-cv-tm.vercel.app/  
 
 
 ##  Let’s Connect
 
 I’m always open to interesting conversations, collaborations, or opportunities.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-F05032?style=for-the-badge&logo=Portfolio)](https://www.mosestm.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F05032?style=for-the-badge&logo=Portfolio)](https://moses-tm.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2496ED?style=for-the-badge&logo=linkedIn)](https://www.linkedin.com/in/moses-mwangi-tm/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/moses-mwangi)
 [![Gmail](https://img.shields.io/badge/Gmail-F24E1E?style=for-the-badge&logo=gmail)](mailto:moses.mwangi.me@gmail.com)
