@@ -92,34 +92,57 @@ Here are some of the technologies and tools I'm proficient in:
 
 Here are a few projects I’ve built that showcase my skills and problem-solving approach:
 
-🔹 **Project One**  – A short description of what the project does and the value it provides.
+🔹 **AI Resume & Cover Letter Builder**  – A short description of what the project does and the value it provides.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Tech: React, Next.js, Tailwind  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Live Demo: https://your-project-link.com <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📦 Repo: https://github.com/moses-mwangi/project-one <br>
-
-
-🔹 **Project Two**  – A short description of what the project does and the value it provides.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Tech: React, Next.js, Tailwind  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Live Demo: https://your-project-link.com <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📦 Repo: https://github.com/moses-mwangi/project-one <br>
-
-
-
-🔹 **Project Three**  – Highlight what makes this project interesting or unique.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Tech: React, Next.js, Tailwind  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Live Demo: https://your-project-link.com <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📦 Repo: https://github.com/moses-mwangi/project-one <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Tech: NextJs
+NodeJs
+Express
+Postgress
+Python
+NLP
+LLM Integration
+REST APIs
+AWS  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Live Demo: https://resume-builder-tm.vercel.app/ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📦 Repo: https://github.com/moses-mwangi/Resume_Builder <br>
 
 
+🔹 **Chrome Extension – Scroll Limiter (Focus Tool)**  – A short description of what the project does and the value it 
 
-🔹 **Project Four**  –  Briefly describe what you built and the technologies used. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Tech: NextJs
+JavaScript
+Chrome Extensions API
+HTML
+CSS
+UI/UX  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Live Demo: https://quiet-interface-extension.vercel.app/ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📦 Repo: https://github.com/moses-mwangi/quiet-interface-extension <br>
+
+
+
+🔹 **Gas Distribution Mobile App (Uber-like Platform)**  – Highlight what makes this project interesting or unique.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Tech: React Native
+Node.js
+APIs
+Geolocation
+Databases
+Cloud Services  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Live Demo: Its a mobile app <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📦 Repo: https://github.com/moses-mwangi/GasPoint <br>
+
+
+
+🔹 **AI Career Assistant Platform**  –  Briefly describe what you built and the technologies used. 
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Tech: React, Next.js, Tailwind  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Live Demo: https://your-project-link.com <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📦 Repo: https://github.com/moses-mwangi/project-one <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Tech: Python
+Full Stack Development
+AI Integration
+APIs
+System Design
+AWS  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Live Demo: https://resume-builder-tm.vercel.app/ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📦 Repo: https://github.com/moses-mwangi/Resume_Builder <br>
 
 ##  Fun Fact
 
