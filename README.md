@@ -30,6 +30,7 @@ I’m a full-stack developer who enjoys building modern web applications that ar
 I’m always open to interesting conversations, collaborations, or opportunities.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-F05032?style=for-the-badge&logo=Portfolio)](https://moses-tm.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-F5B027?style=for-the-badge&logo=Resume)](https://resume-cv-tm.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2496ED?style=for-the-badge&logo=linkedIn)](https://www.linkedin.com/in/moses-mwangi-tm/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/moses-mwangi)
 [![Gmail](https://img.shields.io/badge/Gmail-F24E1E?style=for-the-badge&logo=gmail)](mailto:moses.mwangi.me@gmail.com)
