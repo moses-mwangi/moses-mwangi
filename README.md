@@ -92,7 +92,7 @@ Here are some of the technologies and tools I'm proficient in:
 
 Here are a few projects I’ve built that showcase my skills and problem-solving approach:
 
-🔹 **AI Resume & Cover Letter Builder**  – A short description of what the project does and the value it provides.
+🔹 **AI Resume & Cover Letter Builder**  – Builds tailored resumes and cover letters using AI.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Tech: NextJs
 NodeJs
@@ -107,7 +107,7 @@ AWS  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📦 Repo: https://github.com/moses-mwangi/Resume_Builder <br>
 
 
-🔹 **Chrome Extension – Scroll Limiter (Focus Tool)**  – A short description of what the project does and the value it 
+🔹 **Chrome Extension – Scroll Limiter (Focus Tool)**  – Helps you stay focused by limiting endless scrolling. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Tech: NextJs
 JavaScript
@@ -120,7 +120,7 @@ UI/UX  <br>
 
 
 
-🔹 **Gas Distribution Mobile App (Uber-like Platform)**  – Highlight what makes this project interesting or unique.
+🔹 **Gas Distribution Mobile App (Uber-like Platform)**  – Connects users to nearby gas suppliers for quick delivery.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Tech: React Native
 Node.js
@@ -133,7 +133,7 @@ Cloud Services  <br>
 
 
 
-🔹 **AI Career Assistant Platform**  –  Briefly describe what you built and the technologies used. 
+🔹 **AI Career Assistant Platform**  –  Provides AI-powered resume building and career support.
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 Tech: Python
 Full Stack Development
